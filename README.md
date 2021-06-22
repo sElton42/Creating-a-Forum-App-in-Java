@@ -12,7 +12,7 @@ Dentro da pasta *dist* temos:
 
 Algumas imagens do aplicativo:
 
-<img src="./telaPrincipal.png"/>
+<img src="./telaP.png"/>
 
 <img src="./criarTpc.png"/>
 
