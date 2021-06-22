@@ -9,3 +9,11 @@ Dentro da pasta *dist* temos:
 *Usuarios.txt:* Arquivo que guarda os usuários cadastrados no fórum.
 
 *ForumMTP.jar:* Executável do Fórum.
+
+Algumas imagens do aplicativo:
+
+<img src="./telaPrincipal.png"/>
+
+<img src="./criarTpc.png"/>
+
+<img src="./sobre.png"/>
