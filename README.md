@@ -16,4 +16,4 @@ Algumas imagens do aplicativo:
 
 <img src="./criarTpc.png"/>
 
-<img src="./sobre.png"/>
+<img src="./sobre.png"/> 
