@@ -1,0 +1,45 @@
+AUTORES: ELTON SOARES & SÁVIO VENTURA
+
+
+===========Instruções de Uso==========
+
+Para que o Fórum DiscussNation seja usado, recomenda-se:
+
+- Não saltar linha em nenhuma caixa de texto
+
+- não usar os seguintes caracteres:
+/
+@
+#
+;
+
+- não apagar o conteúdo inicial dos arquivos "Usuarios.txt" e "Topicos.txt".
+
+- não excluir os arquivos "Usuarios.txt" e "Topicos.txt".
+
+Para usar o fórum, basta criar um usuário clicando no link para a página de cadastro, contido na página de login, e criar um novo usuário.
+
+Todavia, pode-se usar o usuário:
+user: admin
+senha: admin
+
+caso não queira criar um usuário novo.
+
+Ao entrar no fórum, você pode sair clicando no link com o nome do usuário.
+
+O fórum dispõe das seguintes funcionalides:
+
+* criação de tópico
+onde você cria um tópico com título, conteúdo e palavras-chave
+
+* visualização de tópico
+onde você seleciona um tópico qualquer na caixa de seleção, sendo que ao clicar em "Procurar", ele joga as informações do tópico na tela. Ademais, essa aba permite que você insira uma resposta no tópico
+
+* Consulta de usuário
+onde você digita o nome do usuário e clica em "Consultar" para saber quantos tópicos e respostas ele criou
+
+* Consulta de Tópico
+onde você digita uma palavra-chave e clica em "Consultar", o que irá preencher a caixa de seleção à direita da página com todos os tópicos que contêm aquela palavra-chave, sendo que, feito isso, você clica em "Procurar" para que ele jogue as informações do tópico na tela.
+
+* Sobre o Projeto
+onde você encontra uma pequena mensagem sobre o projeto e o nome de seus autores

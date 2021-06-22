@@ -1,0 +1,2 @@
+admin;admin;admin@hotmail.com;admin;3;3
+user;user;user@yahoo.com.br;user;0;0
