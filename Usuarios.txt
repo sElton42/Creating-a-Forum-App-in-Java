@@ -1,2 +1,3 @@
+guava;guava;guava@gmail.com;1234;1;1
 admin;admin;admin@hotmail.com;admin;3;3
 user;user;user@yahoo.com.br;user;0;0

@@ -7,6 +7,7 @@ package forummtp;
 
 import java.awt.Color;
 import java.util.ArrayList;
+import static javafx.scene.paint.Color.color;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 

@@ -1,2 +1,0 @@
-admin;admin;admin@gmail.com;admin;2;4
-user;user;user@hotmail.com;user;1;0
